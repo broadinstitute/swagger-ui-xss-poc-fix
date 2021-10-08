@@ -27,5 +27,5 @@ requestInterceptor: req => {
 },
 ```
 
-As an example, please see how it's implemented in [index.html](index.html).
+As an example, please see how it's implemented in [index.html](https://github.com/broadinstitute/swagger-ui-xss-poc-fix/blob/57aa9a7820e0bc736eefbdb9f8725e464dd395d7/index.html#L57-L60).
 You can serve this example locally using `node index.js`.
