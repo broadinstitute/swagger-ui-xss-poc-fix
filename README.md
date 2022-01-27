@@ -1,4 +1,4 @@
-# PoC for a Swagger UI XSS vulnerability
+# PoC fix for a Swagger UI XSS vulnerability
 
 **Update:** GitHub has published a security [advisory](https://github.com/swagger-api/swagger-ui/security/advisories/GHSA-qrmm-w75w-3wpx) for this, please consult it for the official resolution steps.
 
